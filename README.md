@@ -29,7 +29,7 @@
     "\n",
     "The problem is therefore to relate structure to activity (a QSAR=quantitative structure - activity relationship problem) to screen new compounds before actually testing them (a HTS=high - throughput screening problem)"
    ]
-  },
+  }
   {
    "cell_type": "code",
    "execution_count": 31,
